@@ -1,4 +1,5 @@
 * Magento Translation Checklist
+- Are the file names and paths the same as in the config?
 - Compare your config.xml with a config that you know has working translations.
 - Compare your file locations and path names with a module where translations are working.
 - If you are using composer or something similar, are all the files copied or linked correctly?
