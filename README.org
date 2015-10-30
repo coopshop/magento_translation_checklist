@@ -1,1 +1,3 @@
 * Magento Translation Checklist
+- Compare your config.xml with a config that you know has working translations
+- Compare your file locations and path names with a module where translations are working
